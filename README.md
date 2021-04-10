@@ -1,2 +1,2 @@
 # TornadoSmash
-[Gameplay Video](link)
+[Gameplay Video](https://youtu.be/0rMSKlS03MA)
